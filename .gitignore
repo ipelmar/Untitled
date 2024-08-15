@@ -3,3 +3,4 @@
 Server/projects/*
 .gitattributes
 **/.vscode/
+WebApp/build
